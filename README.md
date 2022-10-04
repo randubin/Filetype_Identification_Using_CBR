@@ -1,4 +1,4 @@
-# ZeroShotFileDetector
+# Filetype_Identification_Using_CBR
 # One-Shot Learning For File Type IdentificationClassifier with Classification-by-Retrieval
 #### Ran Dubin and Amit Dvir, Ariel Cyber Innovation Center, Department of Computer Science, Ariel University, Israel
 #### Chen Hajaj, Ariel Cyber Innovation Center Data Science and Artificial Intelligence Research Center Industrial Engineering and Management Department Ariel University, Israel
